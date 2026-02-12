@@ -5,3 +5,7 @@
 ### [1. Egg Dropping Puzzle](./1-EggDroppingPuzzle/README.md)
 *Dynamic Programming | Optimization*
 - Find the minimum number of trials needed in worst case with k eggs and n floors.
+
+### [2. Stack with Two Queues](./2-StackWithTwoQueues/README.md)
+*Data Structures | Stack & Queue*
+- Implement a Stack using two Queues.
