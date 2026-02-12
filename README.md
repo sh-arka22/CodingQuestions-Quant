@@ -9,3 +9,8 @@
 ### [2. Stack with Two Queues](./2-StackWithTwoQueues/README.md)
 *Data Structures | Stack & Queue*
 - Implement a Stack using two Queues.
+
+### [3. Intersection of Two Sorted Arrays](./3-IntersectionOfTwoSortedArrays/README.md)
+*Arrays | Binary Search | Two Pointers*
+- an optimized solution for finding intersection when one array is much smaller than the other.
+
