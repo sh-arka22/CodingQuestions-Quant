@@ -14,3 +14,8 @@
 *Arrays | Binary Search | Two Pointers*
 - an optimized solution for finding intersection when one array is much smaller than the other.
 
+### [4. Generate All Valid Anagrams](./4-GenerateAllValidAnagrams/README.md)
+*Strings | Hash Maps | Frequency Analysis*
+- Generate all valid dictionary words using a given set of letters.
+
+
