@@ -18,4 +18,8 @@
 *Strings | Hash Maps | Frequency Analysis*
 - Generate all valid dictionary words using a given set of letters.
 
+### [5. Integer Partition](./5-IntegerPartition/README.md)
+*Dynamic Programming | Recursion | Combinatorics*
+- Count the number of ways to partition a positive integer.
+
 
