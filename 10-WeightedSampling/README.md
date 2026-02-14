@@ -45,4 +45,6 @@ However, interviewers often ask for variations where the standard approaches fai
 | **Stream / Unknown N** | A-Res (Key-based Reservoir) | $O(N)$ time, $O(1)$ space |
 | **Without Replacement** | Efraimidis-Spirakis (Keys) | $O(N \log k)$ time |
 
+**Note:** The C++ implementation includes a **functional-style Segment Tree** (no classes) as requested, demonstrating how to handle dynamic updates efficiently.
+
 [View C++ Solutions](./main.cpp)
