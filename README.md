@@ -22,4 +22,9 @@
 *Dynamic Programming | Recursion | Combinatorics*
 - Count the number of ways to partition a positive integer.
 
+### [8. Expected Draws to Get an Ace](./8-ExpectedDrawsToGetAnAce/README.md)
+*Probability | Combinatorics | Symmetry*
+- Calculate the expected number of draws to find the first Ace in a shuffled deck.
+
+
 
