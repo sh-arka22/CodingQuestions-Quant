@@ -33,3 +33,7 @@
 ### [10. Weighted Sampling Variations](./10-WeightedSampling/README.md)
 *Probability | Algorithms | System Design*
 - Implementation of Prefix Sum, Alias Method, and A-Res for weighted sampling.
+
+### [11. Valid Palindrome](./11-ValidPalindrome/README.md)
+*Strings | Two Pointers | Algorithms*
+- Determine if a string is a palindrome, considering only alphanumeric characters and ignoring cases.
