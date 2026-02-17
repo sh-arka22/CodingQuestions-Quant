@@ -34,6 +34,22 @@
 *Probability | Algorithms | System Design*
 - Implementation of Prefix Sum, Alias Method, and A-Res for weighted sampling.
 
-### [11. Valid Palindrome](./11-ValidPalindrome/README.md)
-*Strings | Two Pointers | Algorithms*
-- Determine if a string is a palindrome, considering only alphanumeric characters and ignoring cases.
+### [11. Sharpe Ratio Statistics](./11-SharpeRatioStatistics/README.md)
+*Statistics | Hypothesis Testing | Optimization*
+- Calculate minimum sample size required to validate a Sharpe Ratio using Iteration and Binary Search.
+
+### [12. Preventing Overfitting](./12-PreventOverfittingMethods/README.md)
+*Machine Learning | Statistics | Best Practices*
+- A discussion of techniques to prevent overfitting, such as regularization, cross-validation, and managing model complexity.
+
+### [13. Uniform Sampling from a Disk](./13-UniformSamplingFromDisk/README.md)
+*Probability | Geometry | Algorithms*
+- Techniques for uniformly sampling points from within a disk, comparing polar coordinate transformation and rejection sampling methods.
+
+### [14. Eigenvalues of Special Matrix](./14-EigenvaluesOfSpecialMatrix/README.md)
+*Linear Algebra | Matrix Theory*
+- A mathematical derivation of the eigenvalues for an n x n matrix with 'n' on the diagonal and '1' elsewhere.
+
+### [15. Conditional Distribution of Normals](./15-ConditionalDistributionOfNormals/README.md)
+*Probability Theory | Statistics | Calculus*
+- A mathematical derivation of the conditional distribution of X given X + Y > 0, for i.i.d. standard normal variables X and Y.
