@@ -47,3 +47,4 @@ This process is like "slicing" the bivariate normal bell curve along the line $Y
 
 ### Practical Interpretation
 If you observe that the sum of two independent, standard normal variables is positive, your posterior belief about either individual variable should shift rightward. However, you remain uncertain—it doesn't guarantee that $X$ was positive, only that it has become more likely (the probability is now greater than 0.5).
+![alt text](image.png)
